@@ -1,0 +1,8 @@
+h3{
+    text-align: left;
+    padding-top: 10px;
+}
+#search{
+    display: grid;
+    width:60%;
+}
